@@ -1,4 +1,4 @@
-package com.eamh.bluetoothle.ui
+package com.eamh.bluetoothle.ui.detail
 
 import android.os.Bundle
 import android.view.LayoutInflater
